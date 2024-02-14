@@ -15,7 +15,7 @@ We are building an application that creates color blocks on the DOM, based on bu
   - Accessing the DOM
     - `.document.<SOME_SELECTOR>`
     - Selectors
-      - `.querySelector()`
+      - `.querySelector()`\
       - `.getElementById()`
       - `.getElementsByClassName()`
   - Dom Manipulation Methods
